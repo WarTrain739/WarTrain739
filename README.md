@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WarTrain739
-- 👀 I’m interested in mobile apps, gaming, database administration, and web development.
+- 👀 I’m interested in .NET Framework.
 - 🌱 I’m currently working mostly with C#, but have experience with Python, and Web Development languages.
 - 💞️ I’m looking to collaborate on pretty much anything involving C# so I can develop my skills and better understand what it is I enjoy working on most.
 - ⚡ Fun fact: My father was a database administrator for AT&T.
